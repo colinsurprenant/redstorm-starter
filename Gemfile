@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'redstorm', :git => 'git://github.com/colinsurprenant/redstorm.git', :branch => 'v0.6.6'
+gem 'redstorm', '>= 0.6.6.beta1'
 
 group :test do
   gem 'rake'

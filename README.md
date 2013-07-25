@@ -5,7 +5,7 @@ Example topology and its specs.
 ## Dependencies
 
 Tested with:
-- [RedStorm](https://github.com/colinsurprenant/redstorm) >= 0.6.6.beta1 (currently the 0.6.6 branch)
+- [RedStorm](https://github.com/colinsurprenant/redstorm) >= 0.6.6
 - JRuby 1.7.4
 - [Storm](https://github.com/nathanmarz/storm/) 0.9.0-wip16.
 
